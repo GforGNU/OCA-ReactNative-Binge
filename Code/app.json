@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-movies",
-    "slug": "rn-movies",
+    "name": "Binge-movies",
+    "slug": "Binge-movies",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
